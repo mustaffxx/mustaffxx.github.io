@@ -222,9 +222,9 @@
   list-style: none;
   // margin-right: 5px;
   padding-right: 2px;
-  // >li {
-  // margin-bottom: $spacing-unit;
-  // }
+  >li {
+  margin-bottom: -15px;
+  }
 }
 
 .post-meta {
@@ -241,7 +241,7 @@
 
 .post-date {
   text-align: end;
-  flex-basis: 40%;
+  flex-basis: 25%;
 }
 
 .post-container {
